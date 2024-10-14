@@ -1,7 +1,7 @@
 # Business-Insights-360
 # Project Overview
 This project is designed to optimize various aspects of AtliQ Hardwares business which includes Finance, Sales, Marketing Supply Chain and Executive Management.
-# Finance View: Financial planning and Expense Management
+** Finance View: Financial planning and Expense Management ** 
 Implemented a financial forecasting model, resulting in more accurate budget predictions. Created benchmarking against last year and target goals for budgeting.
 
 # Sales View: Increase sales revenue with Customer and Product Performance
