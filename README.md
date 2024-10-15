@@ -1,4 +1,8 @@
 # Business-Insights-360
+
+### **Live Dashboard** [Link](https://app.powerbi.com/view?r=eyJrIjoiOWViMzE2OTgtOWZhNC00Njc2LTllOTUtMzhiM2UxNzViNTJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### **Linkedin Profile** [Link](https://www.linkedin.com/in/mvenkatavaraprasad)
+
 # Project Overview
 This project is designed to optimize various aspects of AtliQ Hardwares business which includes Finance, Sales, Marketing Supply Chain and Executive Management.
 
